@@ -1,0 +1,21 @@
+/* style.css */
+
+.heading {
+    background-color: #91abed;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+.line {
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
